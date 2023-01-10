@@ -1,0 +1,23 @@
+{
+  "name": "learnlinters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adholah96/LearnLinters.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adholah96/LearnLinters/issues"
+  },
+  "homepage": "https://github.com/Adholah96/LearnLinters#readme",
+  "devDependencies": {
+    "hint": "^7.1.3"
+  }
+}
